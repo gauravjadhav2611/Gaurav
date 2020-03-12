@@ -1,2 +1,2 @@
 # Gaurav
-Copiyright gaurav
+Copyright gaurav
